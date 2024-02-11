@@ -1,0 +1,11 @@
+.heading {
+margin-bottom :30px; ;
+margin-top: 35px;
+margin-left: 15px;
+
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+}
